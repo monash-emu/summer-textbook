@@ -1,17 +1,31 @@
 # A Textbook of Infectious Diseases Modelling using the `summer` Platform
 
+This textbook is maintained by the Epidemiological Modelling Unit
+at Monash University's School of Public Health and Preventive Medicine.
+The notebooks (or chapters) run over Google's Colab interface,
+and are introduced in the first notebook below.
+Of course, we encourage users to download these and run them locally
+with their preferred environments and interfaces.
+Feedback is very welcome, please send comments to james.trauer@monash.edu
+
 ## Table of Contents
 [Notebook 01](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/01-introduction.ipynb)
+The field of infectious disease modelling and the rationale and scope for this textbook
 
 [Notebook 02](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/02-basic-model-intro.ipynb)
+The epidemiological messages we can learn from a basic infectious disease model constructed in `summer`
 
 [Notebook 03](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/03-flows-introduction.ipynb)
+How to think about the "flows" or "transitions" we implement in our models
 
 [Notebook 04](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/04-flow-rates.ipynb)
+How to think about the "parameters" or "rates" of these flows/transitions
 
 [Notebook 05](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/05-latency-and-series-comps.ipynb)
+The incubation period, the latent period and chaining compartments in series
 
 [Notebook 06](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/06-immunity.ipynb)
+Post-infection immunity and its effects on epidemic dynamics
 
 [Notebook 07](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/07-solving-the-system.ipynb)
 
