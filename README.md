@@ -36,13 +36,13 @@ Model outputs other than the size of an individual compartment
 [Notebook 09](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/09-freq-dens-transmission.ipynb)
 Frequency-dependent and density-dependent transmission
 
-[Notebook 10](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/11-cyclical-epidemics.ipynb)
+[Notebook 10](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/10-reproduction-number.ipynb)
 The reproduction number
 
-[Notebook 11](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/12-heterogeneous-mixing-intro.ipynb)
+[Notebook 11](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/11-cyclical-epidemics.ipynb)
 Cyclical epidemic dynamics
 
-[Notebook 12](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/10-reproduction-number.ipynb)
+[Notebook 12](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/12-heterogeneous-mixing-intro.ipynb)
 Heterogeneous mixing introduction
 
 [Notebook 13](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/main/textbook/13-mixing-and-transmission-types.ipynb)
