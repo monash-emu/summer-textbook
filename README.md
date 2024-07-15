@@ -1,11 +1,14 @@
 # A Textbook of Infectious Diseases Modelling using the `summer` Platform
 
 This textbook is maintained by the Epidemiological Modelling Unit
-at Monash University's School of Public Health and Preventive Medicine.
+at Monash University's School of Public Health and Preventive Medicine.<br>
 The notebooks (or chapters) run over Google's Colab interface,
 and are introduced in the first notebook below.
+
 Of course, we encourage users to download these and run them locally
-with their preferred environments and interfaces.
+with their preferred environments and interfaces.<br>
+requirements_frozen.txt can be pip installed to provide the needed dependencies
+
 Feedback is very welcome, please send comments to james.trauer@monash.edu
 
 ## Table of Contents
