@@ -1,6 +1,6 @@
-# iHEA notebooks
-The following are the links to the notebooks for use in the STRIDE CRE
-pre-iHEAD congress session being held on 19th July 2025.
+# Teaching notebooks
+The following are the links to the notebooks prepared for use in the MPH5218
+lecture for Monday 6th October 2025.
 
 ## Contents
 [Notebook 01, SIR introduction](https://colab.research.google.com/github/monash-emu/summer-textbook/blob/mph5218/teaching/01-sir-intro.ipynb)
